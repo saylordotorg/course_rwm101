@@ -1,3 +1,10 @@
+---
+layout: default
+title: "RWM101: Foundations of Real World Math"
+course_description: "In this course, you will cover some of the most basic math applications, like decimals, percents, and even fractions. You will not only learn the theory behind these topics, but also how to apply these concepts to your life. You will learn some basic mathematical properties, such as the reflexive property, associative property, and others."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Ratios and Proportions** <span id="5"></span> 
 *In this unit, you will study ratios and proportions.  These are
 mathematical concepts you use all the time, probably without even

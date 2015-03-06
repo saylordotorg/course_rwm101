@@ -1,3 +1,10 @@
+---
+layout: default
+title: "RWM101: Foundations of Real World Math"
+course_description: "In this course, you will cover some of the most basic math applications, like decimals, percents, and even fractions. You will not only learn the theory behind these topics, but also how to apply these concepts to your life. You will learn some basic mathematical properties, such as the reflexive property, associative property, and others."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Number Properties** <span id="1"></span> 
 *Just as in life, there are certain things in math that make you shrug
 and say, “Well, duh.  I knew that; it’s common sense.”  This unit will
